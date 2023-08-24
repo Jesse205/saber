@@ -408,6 +408,6 @@ tr:
 zh-Hans-CN:
   home:
     create:
-      newNote(OUTDATED): New note
-      importNote(OUTDATED): Import note
+      newNote(OUTDATED): 新建笔记
+      importNote(OUTDATED): 导入笔记
 zh-Hant-TW:
